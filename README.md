@@ -16,8 +16,8 @@ had heard of YouTube, picked up ISO 9001 discipline at BlackBerry, kept remote
 facilities running in Northern Canada, and sat on the board of a community
 nonprofit ISP. I live in Seattle.
 
-I'm writing *AI-Assisted Embedded Development*. Chapter 1 is out now as an early
-release.
+I'm writing [*AI-Assisted Embedded Development*](https://failclosed.dev).
+Chapter 1 is out now as an early release.
 
 **What I'm building**
 
