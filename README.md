@@ -1,7 +1,8 @@
 ### Chris Slothouber
 
-I build embedded systems because I love the work. I take boards from schematic
-through fabrication and bring-up, and I've spent enough evenings with a scope on
+I build embedded systems because I'm passionate about the process and seeing the thing become reality from imagination. 
+My adventures include taking boards from schematic
+through fabrication and bring-up, and I've spent enough overheated evenings with a scope on
 an SPI or I2C bus to trust the wire over the status line.
 
 When AI coding agents turned up at my bench, I started writing rules for them,
